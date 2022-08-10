@@ -1,0 +1,15 @@
+.c-sidebar {
+    display: flex;
+}
+
+.j-img {
+    width: 500px;
+    height: 260px;
+    margin: 5px;
+}
+
+#j-zoom {
+    width: 50%;
+    height: 500px;
+    background-size: cover;
+}
